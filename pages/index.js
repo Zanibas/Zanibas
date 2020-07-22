@@ -14,7 +14,7 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          Built with <code>Next.js</code>
+          Under construction with <code>Next.js</code>
         </p>
 
       </main>
